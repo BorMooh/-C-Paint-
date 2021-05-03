@@ -1,0 +1,11 @@
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\bin\Debug\PaintTool.exe.config
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\bin\Debug\PaintTool.exe
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\bin\Debug\PaintTool.pdb
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.csprojAssemblyReference.cache
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.Form1.resources
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.Properties.Resources.resources
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.csproj.GenerateResource.cache
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.csproj.CoreCompileInputs.cache
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.exe
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.pdb
+C:\Users\MohoPoho\source\repos\PaintTool\PaintTool\obj\Debug\PaintTool.Form2.resources
