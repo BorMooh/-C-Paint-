@@ -15,8 +15,6 @@ namespace PaintTool
 
     public partial class Form1 : Form
     {
-        //Ali to dela lmaokai
-
         Graphics g;
         bool startPaint = false;
         int? initX = null;
